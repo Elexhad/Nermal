@@ -1,0 +1,4 @@
+python-dateutil
+aiohttp
+discord.py
+quart
